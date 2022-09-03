@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>ML User Interface</title>
+{% endblock %}
+
+{% block content %}
+<br/>
+<div class="card">
+    <h6>TITANIC MODEL USER INTERFACE</h6>
+    <br/>
+        <form class="form"  action="" method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <br/>
+            <button class="btn" type="submit" name="predict">Predict</button>
+        </form>
+    <br/>
+    <hr/>
+    <h6>RESULT: 
+        <br/>
+        <br/>
+        {{ result|safe }}</h6>
+</div>
+{% endblock %}
