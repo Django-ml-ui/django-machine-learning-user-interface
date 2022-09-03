@@ -22,7 +22,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
-    keywords=['python', 'django'],
+    keywords=['python', 'django', 'machine learning', 'user interface'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
