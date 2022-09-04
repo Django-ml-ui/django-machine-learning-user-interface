@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "django-machine-learning-user-interface"
+version = "0.0.0.4"
+authors = [
+  { name="Phikolomzi Gugwana", email="ggwphi001@myuct.ac.za" },
+]
+description = "A package to help developers build front end user interfaces for machine learning models."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "License :: OSI Approved :: BSD License",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Operating System :: Unix",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+
+]
