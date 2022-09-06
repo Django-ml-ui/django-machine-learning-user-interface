@@ -1,0 +1,5 @@
+include License
+include README.rst
+recursive-include src/templates *
+recursive-include src/input *
+include src/requirements.txt
