@@ -26,7 +26,7 @@ If your model is a classification model, edit line 41 as specified.
 
 
 Run 
-On the comand prompt run python manage.py runserver, go to local host on your browser(http://127.0.0.1:8000/) and you should see your application. 
+On the comand prompt run python manage.py runserver, go to local host on your browser(http://127.0.0.1:8000/) and you should see your application and be able to interact with your application. 
 
 
 
