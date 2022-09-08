@@ -1,3 +1,5 @@
+
+<h2>Install and Setup<h2>
 Install and Setup
 Open up a new working directory and create a virtual environment: py -m venv env
 Activate the virtual environment: env\Scripts\activate
