@@ -1,4 +1,4 @@
-<h6>This package is intended to help developers quickly build scalable and customisable front end user interfaces for machine learning models.</h6>
+**This package is intended to help developers quickly build scalable and customisable front end user interfaces for machine learning models.**
 <br>
 <h6>Install and Setup<h6>
 
