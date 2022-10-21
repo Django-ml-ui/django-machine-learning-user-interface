@@ -21,7 +21,7 @@
   1.5. Open up the files on a code editor e.g. VsCode.
   <br/>
   
-  1.6. Intall project requirments by running `pip install -r requirements.txt` on the comand prompt.
+  1.6. Install project requirements by running `pip install -r requirements.txt` on the command prompt.
   <br/>
   <br/>
   
